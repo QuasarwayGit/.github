@@ -57,18 +57,6 @@ Nosso portfólio reúne frentes de produto para gestão, finanças e engenharia:
 
 > As iniciativas estão em diferentes estágios de desenvolvimento. Escopo, disponibilidade e integrações são apresentados conforme a evolução de cada produto.
 
-## A engenharia que conecta tudo.
-
-Compartilhamos uma base técnica entre os projetos, com identidade visual consistente e responsabilidades bem definidas.
-
-| Camada | Nossa base |
-| :--- | :--- |
-| **Interfaces e aplicações** | TypeScript, React, Next.js, Angular, Ionic e Capacitor. |
-| **APIs e serviços** | PHP com Laravel e Java com Spring Boot. |
-| **Identidade** | Plataforma central baseada em Keycloak e OpenID Connect. |
-| **Design system** | `@quasarwaygit/ui` e `@quasarwaygit/icons`, com suporte a React e Angular/Ionic. |
-| **Práticas de engenharia** | Contratos de API, testes, validação automatizada e documentação junto ao código. |
-
 ## Seu próximo projeto começa com uma conversa.
 
 Conte o que você quer construir, integrar ou melhorar.
