@@ -1,75 +1,82 @@
 <p align="center">
-  <img src="https://quasarway.com.br/assets/brand/svg/quasarway-horizontal-white.svg" alt="Quasarway" width="340" />
+  <a href="https://quasarway.com.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuasarwayGit/.github/main/assets/brand/quasarway-horizontal.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuasarwayGit/.github/main/assets/brand/quasarway-horizontal-light.svg">
+      <img src="https://raw.githubusercontent.com/QuasarwayGit/.github/main/assets/brand/quasarway-horizontal-light.svg" alt="Quasarway — software sob demanda" width="560">
+    </picture>
+  </a>
 </p>
 
-<h3 align="center">O caminho da luz mais intensa para o seu software.</h3>
+<h1 align="center">Engenharia, produto e operação.</h1>
 
 <p align="center">
-  Fábrica de software premium para pequenas e médias empresas.<br/>
-  Engenharia, produto e operação em um único time — do discovery à operação 24/7.
+  Software sob demanda e produtos próprios para transformar desafios de negócio em soluções digitais.<br>
+  Do primeiro desenho à evolução contínua, com clareza técnica e cuidado com a experiência.
 </p>
 
 <p align="center">
-  <a href="https://quasarway.com.br">🌐 quasarway.com.br</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/quasarway">📷 @quasarway</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/company/quasarway">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:support@quasarway.com.br">✉️ support@quasarway.com.br</a>
+  <strong>O caminho da luz mais intensa para o seu software.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://quasarway.com.br"><strong>Conheça a Quasarway ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:support@quasarway.com.br">Vamos conversar</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/company/quasarway">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://instagram.com/quasarway">Instagram</a>
 </p>
 
 ---
 
-### 🛰️ Quem somos
+## Construir. Modernizar. Evoluir.
 
-Um quasar é o objeto mais brilhante do universo observável — não porque é grande,
-mas porque converte energia com uma eficiência que nada mais alcança. A **Quasarway**
-nasceu dessa ideia: não somos a maior fábrica de software do Brasil. Somos o time que
-entrega mais impacto por linha de código.
+A **Quasarway** conecta engenharia de software, visão de produto e operação para desenvolver aplicações e integrar sistemas. Atuamos em projetos sob demanda e no desenvolvimento do nosso próprio ecossistema de produtos.
 
-Squads **100% sêniores** que entram no seu produto como time interno — construindo,
-modernizando e operando software corporativo crítico em fintech, fiscaltech e finops.
+| Frente | Como contribuímos |
+| :--- | :--- |
+| **Discovery e produto** | Entendimento do problema, definição de escopo e decisões técnicas alinhadas ao negócio. |
+| **Desenvolvimento sob demanda** | Aplicações web e experiências móveis, APIs e integrações construídas para cada contexto. |
+| **Modernização de sistemas** | Evolução de interfaces, arquitetura e integrações com atenção à continuidade da operação. |
+| **Operação e evolução** | Manutenção, observabilidade e melhoria contínua ao longo do ciclo de vida do software. |
+
+## Um ecossistema, diferentes desafios.
+
+Nosso portfólio reúne frentes de produto para gestão, finanças e engenharia:
+
+| Produto | Foco |
+| :--- | :--- |
+| **wHalo** | Gestão do ciclo de vida de contratos. |
+| **wLumen** | Operação e integração de documentos fiscais eletrônicos. |
+| **wAtlas** | Assistência guiada para a declaração de Imposto de Renda da pessoa física. |
+| **wPulsar** | Orquestração e conciliação de pagamentos entre provedores. |
+| **wZenith** | Inteligência e operação financeira para organizações. |
+| **wOrbit** | Observabilidade e gestão operacional para times de engenharia. |
+
+> As iniciativas estão em diferentes estágios de desenvolvimento. Escopo, disponibilidade e integrações são apresentados conforme a evolução de cada produto.
+
+## A engenharia que conecta tudo.
+
+Compartilhamos uma base técnica entre os projetos, com identidade visual consistente e responsabilidades bem definidas.
+
+| Camada | Nossa base |
+| :--- | :--- |
+| **Interfaces e aplicações** | TypeScript, React, Next.js, Angular, Ionic e Capacitor. |
+| **APIs e serviços** | PHP com Laravel e Java com Spring Boot. |
+| **Identidade** | Plataforma central baseada em Keycloak e OpenID Connect. |
+| **Design system** | `@quasarwaygit/ui` e `@quasarwaygit/icons`, com suporte a React e Angular/Ionic. |
+| **Práticas de engenharia** | Contratos de API, testes, validação automatizada e documentação junto ao código. |
+
+## Seu próximo projeto começa com uma conversa.
+
+Conte o que você quer construir, integrar ou melhorar.
+
+**[support@quasarway.com.br](mailto:support@quasarway.com.br)** · **[quasarway.com.br](https://quasarway.com.br)**
 
 ---
-
-### 🪐 Nossos produtos
-
-Produtos próprios que resolvem dores recorrentes — cada um nasceu de um problema real.
-
-| Produto | Domínio | O que faz |
-|--------|---------|-----------|
-| **wOrbit** | Engenharia · Observabilidade | Métricas, logs, deploys e incidentes em uma única órbita |
-| **wPulsar** | Fintech · Automação | Orquestração de pagamentos: multigateway, conciliação e antifraude |
-| **wHalo** | Jurídico · Contratos | Ciclo de vida completo de contratos com assinatura digital |
-| **wLumen** | FiscalTech · NF-e/NFS-e | Emissão fiscal com motor próprio e API white-label |
-| **wAtlas** | FinTech · IR · IA | Declaração de Imposto de Renda guiada por IA |
-| **wZenith** | FinOps · CFO | Inteligência financeira em tempo real para mid-market |
-
----
-
-### ⚙️ O que fazemos
-
-- 🧭 **Discovery & Engenharia de produto** — validamos a hipótese antes do build
-- 🛠️ **Squad dedicada** — mesmo time, do zero ao go-live, sem hand-off
-- 🔁 **Modernização de sistemas** — saída de legado sem parar a operação
-- 📈 **Operação contínua & SRE** — SLA real, observabilidade e plantão 24/7
-
----
-
-### 📫 Vamos conversar
-
-Quer tirar seu projeto da gravidade? Escreva para
-**[support@quasarway.com.br](mailto:support@quasarway.com.br)** —
-retornamos em até 3 dias úteis com um time sugerido e uma estimativa inicial.
 
 <p align="center">
-  <sub>© Quasarway Tecnologia Ltda. · São Paulo · Brasil</sub>
+  <sub>Quasarway · Software sob demanda · Brasil</sub>
 </p>
